@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.synthi-learn</groupId>
+  <artifactId>cloud-starter</artifactId>
+  <versioning>
+    <lastUpdated>20231211135858</lastUpdated>
+    <snapshot>
+      <timestamp>20231211.135858</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20231211.135858-1</value>
+        <updated>20231211135858</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20231211.135858-1</value>
+        <updated>20231211135858</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.0.0-SNAPSHOT</version>
+</metadata>
