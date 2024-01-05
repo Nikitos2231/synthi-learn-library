@@ -3,21 +3,21 @@
   <groupId>test.test</groupId>
   <artifactId>common-starterr</artifactId>
   <versioning>
-    <lastUpdated>20240105083130</lastUpdated>
+    <lastUpdated>20240105083615</lastUpdated>
     <snapshot>
-      <timestamp>20240105.083130</timestamp>
+      <timestamp>20240105.083615</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20240105.083130-1</value>
-        <updated>20240105083130</updated>
+        <value>1.0.0-20240105.083615-1</value>
+        <updated>20240105083615</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20240105.083130-1</value>
-        <updated>20240105083130</updated>
+        <value>1.0.0-20240105.083615-1</value>
+        <updated>20240105083615</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
