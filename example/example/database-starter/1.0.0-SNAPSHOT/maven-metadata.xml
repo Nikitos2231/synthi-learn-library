@@ -3,21 +3,21 @@
   <groupId>example.example</groupId>
   <artifactId>database-starter</artifactId>
   <versioning>
-    <lastUpdated>20240105092448</lastUpdated>
+    <lastUpdated>20240105092919</lastUpdated>
     <snapshot>
-      <timestamp>20240105.092448</timestamp>
+      <timestamp>20240105.092919</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20240105.092448-1</value>
-        <updated>20240105092448</updated>
+        <value>1.0.0-20240105.092919-1</value>
+        <updated>20240105092919</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20240105.092448-1</value>
-        <updated>20240105092448</updated>
+        <value>1.0.0-20240105.092919-1</value>
+        <updated>20240105092919</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
