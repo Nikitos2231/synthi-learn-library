@@ -3,16 +3,16 @@
   <groupId>example.example</groupId>
   <artifactId>workspace-parent</artifactId>
   <versioning>
-    <lastUpdated>20240105095835</lastUpdated>
+    <lastUpdated>20240105100016</lastUpdated>
     <snapshot>
-      <timestamp>20240105.095835</timestamp>
+      <timestamp>20240105.100016</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20240105.095835-1</value>
-        <updated>20240105095835</updated>
+        <value>1.0.0-20240105.100016-1</value>
+        <updated>20240105100016</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
