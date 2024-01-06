@@ -3,16 +3,22 @@
   <groupId>example.example</groupId>
   <artifactId>workspace-parent</artifactId>
   <versioning>
-    <lastUpdated>20240106052701</lastUpdated>
+    <lastUpdated>20240106054027</lastUpdated>
     <snapshot>
-      <timestamp>20240106.052701</timestamp>
+      <timestamp>20240106.054027</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20240106.052701-1</value>
-        <updated>20240106052701</updated>
+        <value>1.0.0-20240106.054027-1</value>
+        <updated>20240106054027</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>docs</classifier>
+        <extension>jar</extension>
+        <value>1.0.0-20240106.054027-1</value>
+        <updated>20240106054027</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
