@@ -3,21 +3,27 @@
   <groupId>example.example</groupId>
   <artifactId>cloud-starter</artifactId>
   <versioning>
-    <lastUpdated>20240105092919</lastUpdated>
+    <lastUpdated>20240106054318</lastUpdated>
     <snapshot>
-      <timestamp>20240105.092919</timestamp>
+      <timestamp>20240106.054318</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20240105.092919-1</value>
-        <updated>20240105092919</updated>
+        <value>1.0.0-20240106.054318-1</value>
+        <updated>20240106054318</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20240105.092919-1</value>
-        <updated>20240105092919</updated>
+        <value>1.0.0-20240106.054318-1</value>
+        <updated>20240106054318</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>docs</classifier>
+        <extension>jar</extension>
+        <value>1.0.0-20240106.054318-1</value>
+        <updated>20240106054318</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
