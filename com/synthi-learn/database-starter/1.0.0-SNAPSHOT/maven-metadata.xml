@@ -3,21 +3,33 @@
   <groupId>com.synthi-learn</groupId>
   <artifactId>database-starter</artifactId>
   <versioning>
-    <lastUpdated>20231211135858</lastUpdated>
+    <lastUpdated>20240107130353</lastUpdated>
     <snapshot>
-      <timestamp>20231211.135858</timestamp>
+      <timestamp>20240107.130353</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20231211.135858-1</value>
-        <updated>20231211135858</updated>
+        <value>1.0.0-20240107.130353-1</value>
+        <updated>20240107130353</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20231211.135858-1</value>
-        <updated>20231211135858</updated>
+        <value>1.0.0-20240107.130353-1</value>
+        <updated>20240107130353</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>docs</classifier>
+        <extension>jar</extension>
+        <value>1.0.0-20240107.130353-1</value>
+        <updated>20240107130353</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.0-20240107.130353-1</value>
+        <updated>20240107130353</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
