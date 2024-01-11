@@ -9,6 +9,7 @@
 		<relativePath/>
 	</parent>
 	<modules>
+		<module>logging-starter</module>
 		<module>secure-starter</module>
 		<module>cloud-starter</module>
 		<module>database-starter</module>
