@@ -5,6 +5,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 
 import java.io.Serializable;
+import java.util.UUID;
 
 
 @Data
@@ -13,7 +14,11 @@ public class AccessToken implements Serializable {
 
     private final Claims payload;
 
-    public String getSub() {
+    public String getEmail() {
         return payload.getSubject();
+    }
+
+    public UUID getId() {
+        return UUID.fromString(payload.getId());
     }
 }

@@ -1,8 +1,8 @@
 package com.synthilearn.securestarter;
 
 import com.synthilearn.securestarter.services.TokenService;
-import com.synthilearn.securestarter.services.impl.TokenServiceImpl;
 import io.jsonwebtoken.Claims;
+import lombok.RequiredArgsConstructor;
 import org.springframework.core.MethodParameter;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.server.reactive.ServerHttpRequest;
@@ -13,8 +13,9 @@ import org.springframework.web.server.ServerWebExchange;
 import reactor.core.publisher.Mono;
 
 @Component
+@RequiredArgsConstructor
 public class AuthorizationHeaderResolver implements HandlerMethodArgumentResolver {
-    private final TokenService tokenService = new TokenServiceImpl();
+    private final TokenService tokenService;
 
     @Override
     public boolean supportsParameter(MethodParameter parameter) {

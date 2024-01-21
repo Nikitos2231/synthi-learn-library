@@ -1,0 +1,6 @@
+com/synthilearn/securestarter/EnableTokenResolver.class
+com/synthilearn/securestarter/AccessToken.class
+com/synthilearn/securestarter/services/TokenService.class
+com/synthilearn/securestarter/WebConfiguration.class
+com/synthilearn/securestarter/AuthorizationHeaderResolver.class
+com/synthilearn/securestarter/services/impl/TokenServiceImpl.class

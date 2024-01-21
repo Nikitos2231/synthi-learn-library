@@ -13,6 +13,8 @@
 		<module>secure-starter</module>
 		<module>cloud-starter</module>
 		<module>database-starter</module>
+		<module>common-starter</module>
+		<module>omni-starter</module>
 	</modules>
 	<packaging>pom</packaging>
 	<groupId>com.synthi-learn</groupId>
@@ -37,6 +39,10 @@
 		</repository>
 	</distributionManagement>
 	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-webflux</artifactId>
