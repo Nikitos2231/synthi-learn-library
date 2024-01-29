@@ -3,33 +3,33 @@
   <groupId>com.synthi-learn</groupId>
   <artifactId>common-starter</artifactId>
   <versioning>
-    <lastUpdated>20240121145153</lastUpdated>
+    <lastUpdated>20240129174515</lastUpdated>
     <snapshot>
-      <timestamp>20240121.145153</timestamp>
+      <timestamp>20240129.174515</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20240121.145153-1</value>
-        <updated>20240121145153</updated>
+        <value>1.0.0-20240129.174515-1</value>
+        <updated>20240129174515</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20240121.145153-1</value>
-        <updated>20240121145153</updated>
+        <value>1.0.0-20240129.174515-1</value>
+        <updated>20240129174515</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>docs</classifier>
         <extension>jar</extension>
-        <value>1.0.0-20240121.145153-1</value>
-        <updated>20240121145153</updated>
+        <value>1.0.0-20240129.174515-1</value>
+        <updated>20240129174515</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0.0-20240121.145153-1</value>
-        <updated>20240121145153</updated>
+        <value>1.0.0-20240129.174515-1</value>
+        <updated>20240129174515</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
